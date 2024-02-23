@@ -132,7 +132,7 @@ https://www.figma.com/file/NtwgN74IbcYnvAJGXu4IT2/Uhhhhhh?type=design&node-id=0%
 
 ### Demo Day practice demo: [https://youtu.be/wR6cxmScm9g]
 
-## ⚖ License
+## License
     Copyright [2023] [Group: Duncan McKinley, Carlos Villatoro, Fred DeBiase]
 
     Licensed under the Apache License, Version 2.0 (the "License");
